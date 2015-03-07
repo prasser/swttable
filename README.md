@@ -3,7 +3,8 @@ SWT Tabeles
 
 This project is a fork of the DynamicTable implementation from the [Opal project](https://code.google.com/a/eclipselabs.org/p/opal/)
 with several additions and bug fixes. In a DynamicTable the width of columns can be specified relatively to the overall width
-of the table. Moreover, individual columns can be hidden or shown via a context menu on the table header.
+of the table. Moreover, individual columns can be hidden or shown via a context menu that may be launched by
+right-clicking the table header.
 
 Example
 ------	
