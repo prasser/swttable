@@ -1,4 +1,4 @@
-SWT Tabeles
+Dynamic tables for SWT
 ====
 
 This project is a fork of the DynamicTable implementation from the [Opal project](https://code.google.com/a/eclipselabs.org/p/opal/)
